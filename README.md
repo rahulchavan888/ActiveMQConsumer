@@ -1,7 +1,9 @@
 # ActiveMQConsumer
 
 Spring boot web app to consume Log messages from ActiveMQ and Store into respective Databases.
+
 Use MongoDb to store the log json.
+
 Use Cassandra to store parsed json into respective relational tables.
 
 # dependencies
